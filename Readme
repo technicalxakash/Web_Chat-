@@ -1,0 +1,11 @@
+#create an env by
+#python -m venv venv
+
+#create app.py file 
+#index.html inside templtes
+
+
+#.\venv\Scripts\activate
+#pip install flask flask_socketio
+
+#to run flask server = python .\app.py
